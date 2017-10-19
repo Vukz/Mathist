@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508414724 source:c:\users\svenv\desktop\th k÷ln\03_informatik\etechmatheprogramm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
